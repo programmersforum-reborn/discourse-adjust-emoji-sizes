@@ -4,7 +4,6 @@ img.emoji[title^=":clkol"] {
 }
 
 img.emoji[title^=":kolobok"] {
-    vertical-align: baseline;
     width: initial !important;
     height: #{$kolobok_size}px !important;
 }
