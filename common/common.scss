@@ -8,7 +8,7 @@ img.emoji[title^=":kolobok"] {
     height: $kolobok_size !important;
 }
 
-img.emoji[title$=":parrot"] {
+img.emoji[title$="parrot:"] {
     width: $parrot_size !important;
     height: $parrot_size !important;
 }
