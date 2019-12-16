@@ -1,0 +1,5 @@
+kolobok_size:
+  default: 28
+  description: 'kolobok*, not the classic koloboks'
+
+parrot_size: 28
