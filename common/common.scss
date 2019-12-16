@@ -4,11 +4,11 @@ img.emoji[title^=":clkol"] {
 }
 
 img.emoji[title^=":kolobok"] {
-    width: $kolobok_size !important;
-    height: $kolobok_size !important;
+    width: #{$kolobok_size}px !important;
+    height: #{$kolobok_size}px !important;
 }
 
 img.emoji[title$="parrot:"] {
-    width: $parrot_size !important;
-    height: $parrot_size !important;
+    width: #{$parrot_size}px !important;
+    height: #{$parrot_size}px !important;
 }
