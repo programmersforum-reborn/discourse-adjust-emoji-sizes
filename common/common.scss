@@ -5,12 +5,12 @@ img.emoji[title^=":clkol"] {
 
 img.emoji[title^=":kolobok"] {
     vertical-align: baseline;
-    width: #{$kolobok_size}px !important;
+    width: initial !important;
     height: #{$kolobok_size}px !important;
 }
 
 img.emoji[title$="parrot:"] {
     vertical-align: baseline;
-    width: #{$parrot_size}px !important;
+    width: initial !important;
     height: #{$parrot_size}px !important;
 }
