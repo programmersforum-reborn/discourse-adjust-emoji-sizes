@@ -13,3 +13,8 @@ img.emoji[title$="parrot:"] {
     width: initial !important;
     height: #{$parrot_size}px !important;
 }
+
+img.emoji[title=":donald:"] {
+    width: initial !important;
+    height: #{$others_custom_size}px !important;
+}

@@ -3,3 +3,5 @@ kolobok_size:
   description: 'kolobok*, not the classic koloboks'
 
 parrot_size: 28
+
+others_custom_size: 28
