@@ -14,7 +14,9 @@ img.emoji[title$="parrot:"] {
     height: #{$parrot_size}px !important;
 }
 
-img.emoji[title=":donald:"] {
+img.emoji[title=":donald:"],
+img.emoji[title=":slowpoke:"],
+img.emoji[title=":slowcap:"] {
     width: initial !important;
     height: #{$others_custom_size}px !important;
 }
