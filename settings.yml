@@ -4,4 +4,10 @@ kolobok_size:
 
 parrot_size: 28
 
-others_custom_size: 28
+others_custom_size:
+  default: 28
+  description: 'donald, slowpoke, ...'
+
+big_custom_size:
+  default: 64
+  description: 'nichosi, ...'
